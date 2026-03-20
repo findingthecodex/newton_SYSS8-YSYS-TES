@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BookstoreApp;
+using Bookstore;
 
-namespace BookstoreApp.Tests;
+namespace Bookstore.Tests;
 
 [TestClass]
 public class UnitTest
